@@ -33,5 +33,3 @@ class Calc
     self
   end
 end
-
-puts "#{Calc.new.seven.plus.five}"
