@@ -1,1 +1,1 @@
-# my_codewars
+Some exercises from codewars.com
